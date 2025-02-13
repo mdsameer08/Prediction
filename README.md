@@ -1,2 +1,2 @@
-# Prediction-of-Image-from-MRI-Scan
-Prediction of Image from MRI Scan
+#Aps fault detection system
+Steps to run this code
