@@ -138,7 +138,9 @@ venv.bak/
 venv
 artifact
 logs
-
+prediction
+saved_models
+raw_data
 # Spyder project settings
 .spyderproject
 .spyproject
