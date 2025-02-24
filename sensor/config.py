@@ -2,6 +2,7 @@ import pymongo
 import pandas as pd
 import json
 from dataclasses import dataclass
+from pymongo import MongoClient
 # Provide the mongodb localhost url to connect python to mongodb.
 import os
 
