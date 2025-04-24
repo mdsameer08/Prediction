@@ -1,6 +1,6 @@
 The Air Pressure System (APS) is a critical component of a heavy-duty vehicle that uses compressed air to force a piston to provide pressure to the brake pads, slowing the vehicle down. The benefits of using an APS instead of a hydraulic system are the easy availability and long-term sustainability of natural air. This project pivots to solve the binary classification problem, in which it is to be determined whether the fault in a given vehicle is due to APS or not, aiming to keep the false negatives as low as they could be.
 
-Problem Statement
+Problem Statement: 
 The system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. This is a Binary Classsification problem, in which the affirmative class corresponds to component failures for a specific component of the APS system and apparently the negative one corresponds to trucks with failures for components not related to the APS system.
 
 Cost of dealing with an actual APS component failure (or any other failure) is presumed as 10, however the same cost is taken as 500 when a faulty truck is missed due to whatever reasons (as it might cause a horrible breakdown of the vehicle).
